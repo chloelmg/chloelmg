@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Bonjour, je suis chloelmg !
 
-<!--
-**chloelmg/chloelmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 En ce moment j'apprends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis en train de renforcer mes bases en programmation
+et en développement logiciel.
+
+## 📚 Formations suivies — OpenClassrooms
+
+| Domaine         | Formation                        |
+|-----------------|----------------------------------|
+| 💻 Langages     | Programmez en C                  |
+| 💻 Langages     | Programmez en C++                |
+| ☕ Langages     | Programmez en Java               |
+| 🐍 Langages     | Programmez en Python             |
+| 🔧 Outils       | Gérez du code avec Git & GitHub  |
+| 🧠 Fondamentaux | Découvrez le fonctionnement des algorithmes |
+| 🖥️ Outils       | Apprenez à utiliser le terminal  |
+
+## 🎯 Mes objectifs
+
+- Pratiquer régulièrement sur des petits projets
+- Consolider mes bases avant de choisir une spécialité
+- Continuer à apprendre et à progresser 🚀
+
+## 📫 Me contacter
+
+N'hésite pas à me laisser un message ici sur GitHub !
+
+---
+*Profil en construction — débutante et curieuse 🔨*
